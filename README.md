@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalghotkar" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst Course**
+- 🌱 I’m currently learning **Master in Data Science** 
 
 - 📫 How to reach me **pmghotkar05@gmail.com**
 
 - ⚡ Fun fact **The world is one big data problem📊👨🏻‍💻**
+
+- 💬 Ask me about Python, Machine learning, Deep Learning, Data Science , Tableau , Power bi 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
