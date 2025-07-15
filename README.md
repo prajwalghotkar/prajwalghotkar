@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **The world is one big data problem📊👨🏻‍💻**
 
-- 💬 Ask me about Python , Machine learning , SQL , Deep Learning , Data Science , GenAI-LangChain , Tableau , Power bi  
+- 💬 Ask me about Python , Machine learning , SQL , Deep Learning , GenAI-LangChain , OpenCV ,Tableau , Power bi , Data Science 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
