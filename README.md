@@ -2,8 +2,6 @@
 ![logo](https://images.squarespace-cdn.com/content/v1/5eea681ba10cc5139559fcca/99933882-3dea-4096-a207-835d29abc1e6/Humans+vs+AI.png?format=1500w)
 <h1 align="center">Hi 👋, I'm Prajwal Ghotkar</h1>
 <h3 align="center">Data Analysis World</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left">
 <h4 align="center">🌟 Welcome to my corner of the coding universe! 🌟 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalghotkar" /> </p>
 
@@ -14,6 +12,9 @@
 - ⚡ Fun fact **The world is one big data problem📊👨🏻‍💻**
 
 - 💬 Ask me about Python , NumPy , Pandas , Matplotlib , Seaborn , Machine learning , SQL , Deep Learning , OpenCV ,Tableau , Power bi ,  
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
