@@ -5,7 +5,7 @@
 <h4 align="center">🌟 Welcome to my corner of the coding universe! 🌟 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalghotkar" /> </p>
 
-- 🌱 I’m currently learning **Master in Data Science** 
+- 🌱 I’m currently learning **Data Science** and working to become proficient in it
 
 - 📫 How to reach me **pmghotkar05@gmail.com**
 
