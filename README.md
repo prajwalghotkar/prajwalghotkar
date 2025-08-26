@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **The world is one big data problem📊👨🏻‍💻**
 
-- 💬 Ask me about Python , NumPy , Pandas , Matplotlib , Seaborn , scikit-learn , Machine learning , SQL , Deep Learning , OpenCV ,Tableau , Power bi ,  
-
+- 💬 Ask me about Python | SQL | NumPy | Pandas | Matplotlib | Seaborn | scikit-learn | Machine Learning | Deep Learning | FastAPI | Pydantic(Intermediate) | Agentic AI | OpenCV | Tableau | Power BI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
