@@ -66,6 +66,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
 </a> 
 
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
+  </a> 
+
+
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="opencv" width="40" height="40"/> 
