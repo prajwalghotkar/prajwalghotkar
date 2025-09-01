@@ -54,7 +54,7 @@
 
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a> 
 
   <!-- Power BI -->
@@ -63,15 +63,14 @@
   </a> 
 
   <!-- Tableau -->
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
-</a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
+  </a> 
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
   </a> 
-
 
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -93,6 +92,7 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
   </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalghotkar&show_icons=true&locale=en&layout=compact" alt="prajwalghotkar" /></p>
 
