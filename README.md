@@ -62,9 +62,9 @@
   </a> 
 
   <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
-  </a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
+</a> 
 
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
