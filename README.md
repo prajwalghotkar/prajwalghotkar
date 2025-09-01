@@ -19,106 +19,80 @@
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-      </a>
-      <br/>Python
-    </td>
-    <td align="center">
-      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-      </a>
-      <br/>NumPy
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-      </a>
-      <br/>Pandas
-    </td>
-    <td align="center">
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/>
-      </a>
-      <br/>Matplotlib
-    </td>
-  </tr>
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a> 
 
-  <tr>
-    <td align="center">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-      </a>
-      <br/>Seaborn
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-      </a>
-      <br/>Scikit-learn
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
-      </a>
-      <br/>SQL
-    </td>
-    <td align="center">
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
-      </a>
-      <br/>Power BI
-    </td>
-  </tr>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
 
-  <tr>
-    <td align="center">
-      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau"/>
-      </a>
-      <br/>Tableau
-    </td>
-    <td align="center">
-      <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40" alt="Excel"/>
-      </a>
-      <br/>Excel
-    </td>
-    <td align="center">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" width="40" height="40" alt="OpenCV"/>
-      </a>
-      <br/>OpenCV
-    </td>
-    <td align="center">
-      <a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="40" height="40" alt="Pydantic"/>
-      </a>
-      <br/>Pydantic
-    </td>
-  </tr>
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a> 
 
-  <tr>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-      </a>
-      <br/>Docker
-    </td>
-    <td align="center">
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" alt="FastAPI"/>
-      </a>
-      <br/>FastAPI
-    </td>
-  </tr>
-</table>
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
 
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
+  </a> 
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> 
+  </a> 
+
+  <!-- Tableau -->
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
+</a> 
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
+  </a> 
+
+
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="opencv" width="40" height="40"/> 
+  </a> 
+
+  <!-- Pydantic -->
+  <a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="pydantic" width="40" height="40"/> 
+  </a> 
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
+  </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalghotkar&show_icons=true&locale=en&layout=compact" alt="prajwalghotkar" /></p>
 
