@@ -93,3 +93,20 @@
   </a> 
 </p>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prajwalghotkar&theme=default" />
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&amp;layout=compact&amp;theme=default" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&amp;show_icons=true&amp;theme=default" 
+    width="50%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=prajwalghotkar&amp;theme=default" 
+  />
+</p>
