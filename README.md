@@ -94,9 +94,13 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalghotkar&show_icons=true&locale=en&layout=compact" alt="prajwalghotkar" /></p>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalghotkar&show_icons=true&layout=compact" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true" width="50%"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&locale=en" alt="prajwalghotkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalghotkar&" alt="prajwalghotkar" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalghotkar"/>
+</p>
 
