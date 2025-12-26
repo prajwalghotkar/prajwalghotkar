@@ -95,12 +95,21 @@
 
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalghotkar&show_icons=true&layout=compact" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true" width="50%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&layout=compact&theme=default" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&theme=default" 
+    width="50%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalghotkar"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=prajwalghotkar&theme=default" 
+  />
 </p>
 
