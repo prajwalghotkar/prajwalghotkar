@@ -93,22 +93,19 @@
   </a> 
 </p>
 
-### 📊 GitHub Analytics
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&layout=compact&theme=default" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&amp;layout=compact&amp;theme=default" 
     width="45%" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&amp;show_icons=true&amp;theme=default" 
     width="50%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=prajwalghotkar&theme=default" 
+    src="https://streak-stats.demolab.com?user=prajwalghotkar&amp;theme=default" 
   />
 </p>
-
