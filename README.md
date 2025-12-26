@@ -92,4 +92,4 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
   </a> 
 </p>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=prajwalghotkar&theme=default" />
