@@ -1,6 +1,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=550&lines=Prajwal+Ghotkar;Data+Analyst;Data+Science+Enthusiast;Turning+Data+Into+Insights" />
 </h2>
+
 <marquee direction="right" > Prajwal Ghotkar </marquee>
 ![logo](https://images.squarespace-cdn.com/content/v1/5eea681ba10cc5139559fcca/99933882-3dea-4096-a207-835d29abc1e6/Humans+vs+AI.png?format=1500w)
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
