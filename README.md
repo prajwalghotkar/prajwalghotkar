@@ -1,16 +1,17 @@
 <!-- ANIMATED HEADER WITH FLOATING EFFECT -->
 <div align="center">
   
-  ![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=👋+Hello%2C+I'm+Prajwal+Ghotkar!;🚀+Data+Science+Enthusiast;📊+Turning+Data+into+Insights;💡+Machine+Learning+Explorer)
+  ![Dynamic Text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=👋+Hello%2C+I'm+Prajwal+Ghotkar!;🚀+Data+Science+Enthusiast;📊+Turning+Data+into+Insights;💡+Machine+Learning+Explorer)
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5eea681ba10cc5139559fcca/99933882-3dea-4096-a207-835d29abc1e6/Humans+vs+AI.png?format=1500w" 
-       alt="Humans vs AI" 
+  <!-- REPLACE WITH YOUR OWN IMAGE HOSTED ON GITHUB OR USE A SIMPLER SOURCE -->
+  <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" 
+       alt="Profile Banner" 
        width="400" 
        style="border-radius: 20px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   
-  <!-- ANIMATED WAVE -->
+  <!-- ANIMATED WAVE - MORE RELIABLE SERVICE -->
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&animation=fadeIn&fontAlignY=40" alt="Header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlignY=40" alt="Header">
   </div>
 </div>
 
@@ -19,12 +20,12 @@
 ## 📈 **GitHub Stats Dashboard**
 <div align="center">
 
-<!-- DYNAMIC STATS CARDS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0f2027,203a43,2c5364&title_color=4ecdc4&icon_color=ff6b6b&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=30,2c5364,203a43,0f2027&title_color=4ecdc4&text_color=ffffff"/>
+<!-- DYNAMIC STATS CARDS - USING VERCEL INSTEAD -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&layout=compact&langs_count=8&theme=radical&border_radius=20"/>
   
-  <!-- STREAK STATS WITH ANIMATION -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalghotkar&theme=radical&background=0f2027&border=4ecdc4&stroke=4ecdc4&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=4ecdc4&currStreakLabel=4ecdc4&sideLabels=4ecdc4&dates=96ceb4" 
+  <!-- STREAK STATS WITH MORE RELIABLE SERVICE -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=prajwalghotkar&theme=radical" 
        alt="GitHub Streak"/>
   
   <!-- ACTIVITY GRAPH -->
@@ -108,7 +109,7 @@
 ## 📊 **Skill Meter**
 <div align="center">
 
-<!-- ANIMATED SKILL METERS -->
+<!-- ANIMATED SKILL METERS - USING VERCEL -->
 <table>
   <tr>
     <td width="50%">
@@ -151,8 +152,7 @@
               border-radius: 15px; 
               width: 300px;
               text-align: center;
-              border: 1px solid #4ecdc4;
-              transition: transform 0.3s;">
+              border: 1px solid #4ecdc4;">
     <h3>📊 Data Analysis Project</h3>
     <p>Advanced data visualization and insights generation</p>
     <img src="https://img.shields.io/badge/Python-Pandas-blue" />
@@ -165,8 +165,7 @@
               border-radius: 15px; 
               width: 300px;
               text-align: center;
-              border: 1px solid #ff6b6b;
-              transition: transform 0.3s;">
+              border: 1px solid #ff6b6b;">
     <h3>🤖 ML Model</h3>
     <p>Machine Learning prediction model</p>
     <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange" />
@@ -179,8 +178,7 @@
               border-radius: 15px; 
               width: 300px;
               text-align: center;
-              border: 1px solid #45b7d1;
-              transition: transform 0.3s;">
+              border: 1px solid #45b7d1;">
     <h3>🌐 API Development</h3>
     <p>FastAPI backend with data processing</p>
     <img src="https://img.shields.io/badge/FastAPI-Pydantic-teal" />
@@ -229,11 +227,10 @@
 ## 📈 **Activity Calendar**
 <div align="center">
 
-<!-- ACTIVITY CALENDAR -->
-<!-- GitHub Readme Activity Graph -->
+<!-- ACTIVITY CALENDAR - USING VERCEL -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=react-dark&bg_color=0f2027&color=4ecdc4&line=ff6b6b&point=96ceb4&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=github&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=react-dark&bg_color=0f2027&color=4ecdc4&line=ff6b6b&point=96ceb4&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=github&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true">
 </picture>
 
 </div>
