@@ -4,7 +4,7 @@
 
 <marquee direction="right" > Prajwal Ghotkar </marquee>
 ![logo](https://images.squarespace-cdn.com/content/v1/5eea681ba10cc5139559fcca/99933882-3dea-4096-a207-835d29abc1e6/Humans+vs+AI.png?format=1500w)
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+
 <h1 align="center">Hi 👋, I'm Prajwal Ghotkar</h1>
 <h3 align="center">Data Analysis World</h3>
 <h4 align="center">🌟 Welcome to my corner of the coding universe! 🌟 </h4>
