@@ -20,10 +20,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajwal-ghotkar-9618272a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-ghotkar-9618272a5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?igsh=17hkb01x0fkpr&utm_content=nad16fs" height="30" width="40" /></a>
-</p>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/prajwal-ghotkar-9618272a5" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/prajwalghotkar_02/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
