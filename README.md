@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+ML+Engineer+%7C+SQL+Developer;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;model.fit(X_train%2C+y_train)+;Building+RAG+%26+Agentic+AI+with+LangChain+%2B+LangGraph;Turning+Data+Into+Insights+" alt="Typing SVG" />
 </a>
