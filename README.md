@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prajwalghotkar/prajwalghotkar/main/universe.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
-
 <!-- 🌌 Animated Neural Network Universe (upload assets/universe.svg to your repo) -->
+<img src="https://raw.githubusercontent.com/prajwalghotkar/prajwalghotkar/main/universe.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
 <img src="https://raw.githubusercontent.com/prajwalghotkar/prajwalghotkar/main/assets/universe.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
 
 <a href="https://git.io/typing-svg">
