@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/prajwalghotkar/prajwalghotkar/main/prajwal_black_universe_animated.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code">
 </a>
 
 <br/><br/>
