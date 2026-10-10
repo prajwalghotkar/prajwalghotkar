@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+ML+Engineer+%7C+SQL+Developer;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;model.fit(X_train%2C+y_train)+%F0%9F%A4%96;Building+RAG+%26+Agentic+AI+with+LangChain+%2B+LangGraph;Turning+Data+Into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
@@ -134,14 +132,6 @@ flowchart LR
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=a78bfa&point=ffffff" width="95%" />
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prajwalghotkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 ---
