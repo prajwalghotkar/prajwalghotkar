@@ -3,8 +3,10 @@
 <img src="https://raw.githubusercontent.com/prajwalghotkar/prajwalghotkar/main/prajwal_black_universe_animated.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+ML+Engineer+%7C+SQL+Developer;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;model.fit(X_train%2C+y_train)+%F0%9F%A4%96;Building+RAG+%26+Agentic+AI+with+LangChain+%2B+LangGraph;Turning+Data+Into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
+
+
 
 <br/><br/>
 
