@@ -1,114 +1,165 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=550&lines=Prajwal+Ghotkar;Data+Analyst;Data+Science+Enthusiast;Turning+Data+Into+Insights" />
-</h2>
+<div align="center">
 
-<marquee direction="right" > Prajwal Ghotkar </marquee>
-![logo](https://images.squarespace-cdn.com/content/v1/5eea681ba10cc5139559fcca/99933882-3dea-4096-a207-835d29abc1e6/Humans+vs+AI.png?format=1500w)
+<!-- 🌌 Animated Neural Network Universe (upload assets/universe.svg to your repo) -->
+<img src="assets/universe.svg" alt="Prajwal Ghotkar - Neural Network Universe" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Prajwal Ghotkar</h1>
-<h3 align="center">Data Analysis World</h3>
-<h4 align="center">🌟 Welcome to my corner of the coding universe! 🌟 </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalghotkar" /> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+ML+Engineer+%7C+SQL+Developer;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;model.fit(X_train%2C+y_train)+%F0%9F%A4%96;Building+RAG+%26+Agentic+AI+with+LangChain+%2B+LangGraph;Turning+Data+Into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently exploring Data Science and working to become proficient in it.
+<br/><br/>
 
-- 📫 How to reach me **pmghotkar05@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Role-Data%20Scientist-22d3ee?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-ML%20Engineer-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-SQL%20Developer-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
 
-- ⚡ Fun fact **The world is one big data problem📊👨🏻‍💻**
+</div>
 
-- 💬 Ask me about Python | MySQL | NumPy | Pandas | Matplotlib | Seaborn | scikit-learn | Machine Learning | FastAPI | Pydantic(Intermediate) | OpenCV | Tableau | Power BI
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/prajwal-ghotkar-9618272a5" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
-  </a>
+## 👨🏻‍💻 About Me
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/prajwalghotkar_02/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="30"
-      width="40" />
-  </a>
-</p>
+```python
+class Prajwal:
+    name    = "Prajwal Ghotkar"
+    roles   = ["Data Scientist", "ML Engineer", "SQL Developer"]
+    stack   = ["Python", "SQL", "scikit-learn", "XGBoost", "LangChain", "LangGraph"]
+    exploring = ["RAG", "Agentic AI", "LLMs", "Model Deployment with Flask"]
+    fun_fact  = "The world is one big data problem 📊"
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+    def mission(self):
+        return "Turn messy data into intelligent decisions."
 
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
+print(Prajwal().mission())
+```
 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
+<table>
+<tr>
+<td width="50%">
 
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-  </a> 
+### 🌱 Currently
+- Mastering **Data Science & ML** end to end
+- Building **RAG** and **Agentic AI** apps
+- Working with **LangChain** and **LangGraph**
+- Writing optimized **SQL** for analytics
 
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
+</td>
+<td width="50%">
 
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
+### 🎯 Goals
+- Work as **Data Scientist / ML Engineer**
+- Ship **production-ready ML pipelines**
+- Build **LLM-powered products**
+- Tell stories with data 📖
 
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a> 
+</td>
+</tr>
+</table>
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> 
-  </a> 
+---
 
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
-  </a> 
+## 🧠 Skills
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
-  </a> 
+### 🐍 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="opencv" width="40" height="40"/> 
-  </a> 
+### 🤖 Machine Learning & Deep Learning
+`Supervised & Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Linear Regression` · `Logistic Regression` · `Decision Trees` · `Random Forest` · `XGBoost` · `SVM` · `KNN` · `K-Means Clustering` · `Model Evaluation` · `Hyperparameter Tuning` · `A/B Testing` · `Hypothesis Testing`
 
-  <!-- Pydantic -->
-  <a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="pydantic" width="40" height="40"/> 
-  </a> 
+### ✨ Generative AI & LLMs
+<img src="https://img.shields.io/badge/LLMs-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-ec4899?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-22d3ee?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge&logo=langchain&logoColor=white" />
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+### 📊 Data Analysis
+`Data Cleaning` · `Data Wrangling` · `Exploratory Data Analysis (EDA)` · `Statistical Analysis` · `Feature Engineering` · `Predictive Analytics` · `ETL Pipelines`
 
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
-  </a> 
-</p>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=prajwalghotkar&theme=default" />
+### 🛠️ Tools & Technologies
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL%20Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+## 🔄 My Workflow
+
+```mermaid
+flowchart LR
+    A[🗄️ SQL / MySQL] --> B[🧹 ETL + Cleaning<br/>Pandas · NumPy]
+    B --> C[🔍 EDA + Features<br/>Matplotlib · Seaborn]
+    C --> D[🤖 Modeling<br/>scikit-learn · XGBoost]
+    D --> E[🚀 Serve<br/>Flask API]
+    C --> F[✨ GenAI<br/>RAG · LangChain · LangGraph]
+```
+
+---
+
+## 🚀 Featured Projects
+
+> Replace these with your real repositories.
+
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 **ML Prediction Pipeline** | End-to-end: cleaning, feature engineering, training, evaluation | `Python` `scikit-learn` `XGBoost` |
+| 💬 **RAG Chatbot** | Ask questions over your own documents with retrieval + LLM | `LangChain` `RAG` `LLMs` |
+| 🕸️ **Agentic AI Workflow** | Multi-step AI agent with tools and state | `LangGraph` `LangChain` |
+| 🗄️ **SQL Analytics Project** | Complex joins, window functions, business insights | `MySQL` `SQL` |
+| 🔍 **EDA & A/B Testing** | Hypothesis testing and statistical storytelling | `Pandas` `Seaborn` `SciPy` |
+| ⚡ **ML Model API** | Trained model served as a REST API | `Flask` `Python` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prajwalghotkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=a78bfa" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghotkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=prajwalghotkar&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=a78bfa&point=ffffff" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prajwalghotkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:pmghotkar05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/prajwal-ghotkar-9618272a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/prajwalghotkar_02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/prajwalghotkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22;Open+to+Data+Science+%7C+ML+%7C+SQL+opportunities+%F0%9F%A4%9D" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1B9AAA,100:0E75B6&height=110&section=footer" width="100%" />
