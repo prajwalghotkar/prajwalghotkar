@@ -33,6 +33,7 @@ print(Prajwal().mission())
 <table>
 <tr>
 <td width="50%">
+
 ### Currently
 - Analysing data with **SQL, Python & Excel** to answer business questions
 - Building **dashboards & reports** that track KPIs
