@@ -7,6 +7,7 @@
 </a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+
 <img src="https://img.shields.io/badge/Role-Data%20Analyst-22d3ee?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Role-SQL%20Developer-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Role-ML%20Engineer-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
