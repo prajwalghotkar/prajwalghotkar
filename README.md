@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Role-SQL%20Developer-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Role-ML%20Engineer-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
----
+
  
 ## About Me
  
@@ -48,7 +48,6 @@ print(Prajwal().mission())
 </td>
 </tr>
 </table>
----
  
 ## Skills
  
@@ -58,12 +57,14 @@ print(Prajwal().mission())
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
 ### SQL & Databases
 `SELECT` · `Joins` · `Subqueries` · `CTEs` · `Window Functions` · `Aggregations` · `Indexing & Query Optimization` · `Stored Procedures` · `Views` · `Data Modeling`
  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
 ### Programming & Libraries
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -71,6 +72,7 @@ print(Prajwal().mission())
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 ### Machine Learning
 `Supervised & Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `Linear Regression` · `Logistic Regression` · `Decision Trees` · `Random Forest` · `XGBoost` · `SVM` · `KNN` · `K-Means` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Predictive Analytics`
  
@@ -80,12 +82,13 @@ print(Prajwal().mission())
 <img src="https://img.shields.io/badge/Agentic%20AI-22d3ee?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge&logo=langchain&logoColor=white" />
+
 ### Tools
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
----
+
  
 ## My Workflow
  
@@ -99,7 +102,6 @@ flowchart LR
     C --> G[GenAI<br/>RAG · LangChain · LangGraph]
 ```
  
----
  
 ## Featured Projects
  
@@ -116,7 +118,6 @@ flowchart LR
 | **RAG Chatbot** | GenAI | Ask questions over your own documents with retrieval + LLM | `LangChain` `RAG` `LLMs` |
 | **Agentic AI Workflow** | GenAI | Multi-step AI agent with tools and state | `LangGraph` `LangChain` |
  
----
  
 ## GitHub Stats
  
@@ -128,7 +129,7 @@ flowchart LR
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalghotkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=a78bfa&point=ffffff" width="95%" />
 </div>
----
+
  
 ## Let's Connect
  
