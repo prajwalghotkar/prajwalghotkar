@@ -5,9 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+SQL+Developer+%7C+ML+Engineer;SELECT+insight+FROM+data+WHERE+curiosity+%3D+True%3B;Dashboards%2C+KPIs+%26+Business+Insights+%F0%9F%93%8A;model.fit(X_train%2C+y_train)+%F0%9F%A4%96;Building+RAG+%26+Agentic+AI+with+LangChain+%2B+LangGraph" alt="Typing SVG" />
 </a>
-
 <br/><br/>
- 
 <img src="https://komarev.com/ghpvc/?username=prajwalghotkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/badge/Role-Data%20Analyst-22d3ee?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Role-SQL%20Developer-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
