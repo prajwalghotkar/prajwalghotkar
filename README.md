@@ -40,6 +40,8 @@ print(Prajwal().mission())
 - Exploring **RAG** and **Agentic AI** with LangChain and LangGraph
 </td>
 <td width="50%">
+
+  
 ### Goals
 - Work as a **Data Analyst / SQL Developer / ML Engineer**
 - Deliver **insights that drive business decisions**
